@@ -24,6 +24,7 @@
 ### Installation
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
+- Remove "-edited" from folder name -> "qb-vehicleshop"
 ```
 ensure qb-vehicleshop
 ```
