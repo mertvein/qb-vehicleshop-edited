@@ -3,7 +3,7 @@
 - New QBCore
 
 ## Showcase (tr)
-- ![image](https://github.com/mertvein/qb-vehicleshop/assets/79944577/10c22020-2b8a-47b0-8956-20771d0f25ae)
+![image](https://github.com/mertvein/qb-vehicleshop/assets/79944577/10c22020-2b8a-47b0-8956-20771d0f25ae)
 
 ## Discord
 - https://discord.gg/mert
